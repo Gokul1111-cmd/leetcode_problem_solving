@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0392-is-subsequence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Array
 |  |
@@ -53,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0347-top-k-frequent-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
