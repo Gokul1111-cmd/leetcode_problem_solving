@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0347-top-k-frequent-elements) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0347-top-k-frequent-elements) |
