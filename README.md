@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0392-is-subsequence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Array
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
