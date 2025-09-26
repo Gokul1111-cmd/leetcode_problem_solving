@@ -17,8 +17,6 @@ class Solution {
                 }
             }
         }
-        for(int ele : nums1){
-            System.out.print(ele);
-        }
+        System.out.print(nums1);
     }
 }
