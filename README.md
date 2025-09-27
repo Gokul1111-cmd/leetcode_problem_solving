@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0268-missing-number) |
+| [2383-add-two-integers](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/2383-add-two-integers) |
 ## Binary Search
 |  |
 | ------- |
