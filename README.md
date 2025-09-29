@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0041-first-missing-positive) |
+| [0066-plus-one](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0128-longest-consecutive-sequence) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0268-missing-number) |
 | [2383-add-two-integers](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/2383-add-two-integers) |
 ## Binary Search
