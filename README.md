@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0347-top-k-frequent-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0392-is-subsequence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0347-top-k-frequent-elements) |
 | [1306-minimum-absolute-difference](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/1306-minimum-absolute-difference) |
