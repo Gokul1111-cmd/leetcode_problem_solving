@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0268-missing-number) |
+| [1642-water-bottles](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/1642-water-bottles) |
 | [2383-add-two-integers](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/2383-add-two-integers) |
 ## Binary Search
 |  |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
