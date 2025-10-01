@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0520-detect-capital) |
+| [0742-to-lower-case](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0742-to-lower-case) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Array
 |  |
