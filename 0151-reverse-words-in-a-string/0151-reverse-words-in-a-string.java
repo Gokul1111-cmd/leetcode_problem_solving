@@ -12,13 +12,11 @@ class Solution {
             r--;
         }
         StringBuilder b = new StringBuilder();
-        int k = 0;
-        for(String word : words){
-            b.append(word);
-            if(k < words.length - 1){
+        for(int i = 0 ; i < words.length ; i++){
+            b.append(words[i]);
+            if(i < words.length - 1){
                 b.append(" ");
             }
-            k++;
         }
         return b.toString();
     }
