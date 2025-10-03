@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0948-sort-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/1306-minimum-absolute-difference) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Math
 |  |
@@ -126,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0948-sort-an-array) |
+## Greedy
+|  |
+| ------- |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/2212-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
