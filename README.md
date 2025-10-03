@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0347-top-k-frequent-elements) |
+| [0792-binary-search](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0948-sort-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/1306-minimum-absolute-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
