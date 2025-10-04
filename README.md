@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0088-merge-sorted-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0792-binary-search) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
