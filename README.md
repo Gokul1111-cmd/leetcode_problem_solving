@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0128-longest-consecutive-sequence) |
+| [0189-rotate-array](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0347-top-k-frequent-elements) |
 | [0792-binary-search](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0792-binary-search) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0268-missing-number) |
 | [1642-water-bottles](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/1642-water-bottles) |
 | [2383-add-two-integers](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/2383-add-two-integers) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
