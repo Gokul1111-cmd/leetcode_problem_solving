@@ -1,7 +1,7 @@
 class Solution {
     public List<List<Integer>> generate(int numRows) {
         List<List<Integer>> triangle = new ArrayList<>();
-        if(numRows == 0){
+        if(numRows <= 0){
             return triangle;
         }
         for(int i = 0 ; i < numRows ; i++){
@@ -20,3 +20,4 @@ class Solution {
         return triangle;
     }
 }
+
