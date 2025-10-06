@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0118-pascals-triangle) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0392-is-subsequence) |
