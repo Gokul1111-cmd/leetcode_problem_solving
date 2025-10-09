@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0242-valid-anagram) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0125-valid-palindrome) |
@@ -154,5 +156,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Gokul1111-cmd/leetcode_problem_solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
